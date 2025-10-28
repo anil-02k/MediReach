@@ -4,6 +4,14 @@ MediReach is a full-stack healthcare application built to mangage Medicines. It 
 
 ---
 
+# Preview
+
+<p align="center">
+  <img src="./Screenshot%202025-10-28%20183553.png" alt="MediReach App Screenshot" width="600"/>
+</p>
+
+---
+
 ## Features
 
 - Secure user authentication (Signup, Login, OTP, Reset Password)  
