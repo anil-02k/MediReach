@@ -1,6 +1,6 @@
 # MediReach
 
-MediReach is a full-stack healthcare application built to provide a seamless patient–doctor experience with secure authentication and role-based access. It ensures modern UI design, scalable architecture, and reliable communication features.
+MediReach is a full-stack healthcare application built to mangage Medicines. It ensures modern UI design, scalable architecture, and reliable communication features.
 
 ---
 
