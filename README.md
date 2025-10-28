@@ -75,7 +75,6 @@ MediReach/
 ## Future Enhancements
 
 - Real-time chat between patients and doctors
-- 
 - Appointment scheduling system  
 - Push notifications for reminders and alerts  
 - Integration of telemedicine API  
